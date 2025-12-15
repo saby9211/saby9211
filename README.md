@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Codechef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Profile">
 </a>
 <img src="https://img.shields.io/badge/Max_Rating-2013-brown?style=for-the-badge" alt="Max Rating">
-<img src="https://komarev.com/ghpvc/?username=saby9211-codechef&label=Views&color=brown&style=for-the-badge" alt="Codechef Views">
+<img src="https://komarev.com/ghpvc/?username=saby9211-codechef&label=Views&color=5B4638&style=for-the-badge" alt="Codechef Views">
 <br>
 
 <a href="https://leetcode.com/supreet04singh/">
