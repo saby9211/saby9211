@@ -43,7 +43,7 @@
 <a href="https://www.codechef.com/users/saby04">
   <img src="https://img.shields.io/badge/Codechef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Profile">
 </a>
-<img src="https://img.shields.io/badge/Max_Rating-2013-brown?style=for-the-badge" alt="Max Rating">
+<img src="https://img.shields.io/badge/Max_Rating-2013-orange?style=for-the-badge" alt="Max Rating">
 <img src="https://komarev.com/ghpvc/?username=saby9211-codechef&label=Views&color=5B4638&style=for-the-badge" alt="Codechef Views">
 <br>
 
